@@ -7,3 +7,5 @@ int main()
 {
 cout<<"Hello word"<<endl;
 }
+
+print("远程修改Jame")
