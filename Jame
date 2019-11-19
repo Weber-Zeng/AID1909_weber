@@ -1,2 +1,9 @@
 def fun():
     print("Ciel is beauty")
+  
+#include iostrean
+using namesapace std;
+int main()
+{
+cout<<"Hello word"<<endl;
+}
